@@ -1,0 +1,20 @@
+{
+  "name": "spanish-quiz",
+  "version": "1.0.0",
+  "description": "A spanish quiz cli",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "quiz",
+    "spanish"
+  ],
+  "author": "QwertyR0",
+  "license": "MIT",
+  "dependencies": {
+    "@qwertyr0/ezrandom": "^2.0.2",
+    "chalk": "^4.1.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
